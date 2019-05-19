@@ -1,0 +1,54 @@
+﻿  free.cpp
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(43): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(49): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(72): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(73): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(74): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(76): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(77): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(78): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(81): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(82): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(83): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(84): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(87): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(89): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(91): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(99): warning C4305: "Argument": Verkürzung von "double" in "GLclampf"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(157): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(165): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(180): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(193): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(208): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(223): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(240): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(241): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(242): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(243): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(245): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(250): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(251): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(257): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(258): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(264): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(265): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(266): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(272): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(273): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(274): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(280): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(281): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(282): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(289): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(290): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(291): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(297): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(298): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(299): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(332): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(336): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(341): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(344): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(347): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\GDV Praktikum 1\free.cpp(367): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  GDV Praktikum 1.vcxproj -> C:\Users\admin\Desktop\Uni\GDV\GDV\GDV Praktikum 1\Debug\GDV Praktikum 1.exe
